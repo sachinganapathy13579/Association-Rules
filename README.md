@@ -1,6 +1,6 @@
 # Association-Rules
 
-## Prepare Association rules for the all the data sets. 
+## Prepare Association rules for the data sets. 
 
     * Trying different values of support and confidence. 
     * Observing the change in number of rules for different support and confidence values.
